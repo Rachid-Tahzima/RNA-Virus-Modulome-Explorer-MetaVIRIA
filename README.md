@@ -5,7 +5,7 @@ Recent breakthroughs in protein structure prediction have generated a vast lands
 MetaVIRIA’s structure- and intrinsic-disorder–based Modulome quantifies a suite of novel biophysical properties—including solvent-accessibility patterns, charge and protonation states, conformational plasticity, energy-profile signatures, and residue-level spatial networks. These features, embedded jointly with geometric motifs and rarity-weighted interaction patterns, allow sensitive detection of discontinuous or weakly conserved RNA-binding modules even within highly divergent viral proteins. A sequence-informed energetic model, strongly correlated with structure-derived energy landscapes, supports rapid comparative analysis across millions of proteins and enhances the interpretability of inferred sequence–structure–function relationships.
 By training predictive models on these Modulome-derived biophysical signatures, MetaVIRIA identifies protein-level determinants distinguishing direct-contact, environmental, and vector-borne viral transmission pathways across animal, plant, and human viruses. This unified, scalable representation of protein structure space—paired with an interactive exploration platform—enables new biological questions to be asked about taxonomic origin, ecological context, and functional specificity, providing a generalizable foundation for discovery-driven research across global virome and host proteome datasets
 
-[Modulome.tiff](https://github.com/user-attachments/files/23728685/Modulome.tiff)
+
 
 
 # The RNA Virus Modulome & MetaVIRIA (Beta_v1)
